@@ -5,9 +5,6 @@
 ### Authors
 [Pedro Coser](https://github.com/PCoser)
 [Unnati Thakkar](https://github.com/unnati9979)
-[Tarun Dwivedi] (https://github.com/Tarund95)
-[Rahul Saidha] (https://github.com/rahulsaidha)
-
 
 ### Table of Content
 ---
